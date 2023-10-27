@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Amir</h1>
 <h3 align="center">Web Design And Front End Dev</h3>
-<img  src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG0xam5xeGJraXlydDZybWx5dnhna2Zwbm9tcmNrNWNtYndsc3A4OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" align="right" width="400">
+
 
 ```javascript
 const amir = {
@@ -9,7 +9,7 @@ const amir = {
   birthDay : "December 31"
 }
 ```
-
+<img  src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG0xam5xeGJraXlydDZybWx5dnhna2Zwbm9tcmNrNWNtYndsc3A4OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" align="right" height="400">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amirjt&label=Profile%20views&color=0e75b6&style=flat" alt="amirjt" /> </p>
 
 <h3 align="left">Connect with me:</h3>
