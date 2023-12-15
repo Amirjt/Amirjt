@@ -4,7 +4,7 @@
 ```javascript
 const amir = {
  pronouns: "he" | "him",
- code: [HTML , CSS , Tailwind , Bootstrap , Javascript , React , Next , ....],
+ code: [HTML , CSS , Tailwind , Bootstrap , Javascript , React , Next , React Native , ...],
  birthDay : "December 31"
 }
 ```
