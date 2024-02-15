@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m Amir<br>- 👀 I’m interested in Coding and Learning...<br>- 🌱 I’m currently learning ...
+- 👋 Hi, I’m Amir<br>- 👀 I’m interested in Coding and Learning...<br>- 🌱
 
 
 ## 🌐 Socials:
